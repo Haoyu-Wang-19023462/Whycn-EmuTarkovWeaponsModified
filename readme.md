@@ -10,7 +10,7 @@ If it doesn't take any effect, please try to uninstall other mods or clear the c
 
 1. Add this folder in server\user\mods
 
-2. Add these lines to your mods.json in Server\user\configs
+2. Add these lines to your mods.json in Server\user\configs  
 (If you are using this readme file in notepad, don't copy "```javascript" and "```" lines.)
 ```javascript
 {
@@ -59,6 +59,11 @@ Please reverse the steps above.
 |59e6687d86f77411d949b251|weapon_molot_akm_vpo_209_366_TKM             |Add fullauto 600 RPM mode, All values are reset according to 8.3% deterioration of the original AKMN value                  |
 |5c1bc5af2e221602b412949b|foregrip_all_zenit_rk_2                      |-0 Ergonomics                                                                                                               |
 
+**Tests**
+0.12.7.8642 passed.
+Compatible with "Ereshkigal-AllExaminedItemsPlusNoItemsWeightPlusIncreasedAmmoStacksSize-1.0.0"
+Compatible with "Frumorn-AutoSaiga12-1.0.0"
+
 
 
 
@@ -84,7 +89,7 @@ Please reverse the steps above.
 
 1. 首先将本文件夹放在server\user\mods文件夹下。如果没有mods文件夹，新建一个然后放进去。
 
-2. 将以下几行添加到你的Server\user\configs文件夹下的mods.json文件中。
+2. 将以下几行添加到你的server\user\configs文件夹下的mods.json文件中。  
 (如果你是用文本编辑器看这个文件，不要复制"```javascript" and "```" 两行。)
 ```javascript
 {
@@ -132,3 +137,8 @@ Please reverse the steps above.
 |5c471bfc2e221602b21d4e17|muzzle_svd_izhmash_svd_s_std_762x54          |SVDS 22寸枪管制退器      |可安装莫辛TR+枪口转接器、可安装莫辛Witt制退器                                                      |
 |59e6687d86f77411d949b251|weapon_molot_akm_vpo_209_366_TKM             |VPO-209 半自动霰弹枪     |增加全自动600发每分模式、全部数值按AKMN原厂数值劣化8.3%重新设定                                    |
 |5c1bc5af2e221602b412949b|foregrip_all_zenit_rk_2                      |RK-2垂直前握把           |-0人机功效                                                                                         |
+
+**测试**
+0.12.7.8642测试通过
+与Ereshkigal-AllExaminedItemsPlusNoItemsWeightPlusIncreasedAmmoStacksSize-1.0.0兼容
+与Frumorn-AutoSaiga12-1.0.0兼容
