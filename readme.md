@@ -91,7 +91,7 @@ Compatible with "Frumorn-AutoSaiga12-1.0.0"
 1. 首先将本文件夹放在server\user\mods文件夹下。如果没有mods文件夹，新建一个然后放进去。
 
 2. 将以下几行添加到你的server\user\configs文件夹下的mods.json文件中。  
-(如果你是用文本编辑器看这个文件，不要复制"```javascript" and "```" 两行。)
+(如果你是用文本编辑器看这个文件，不要复制"```javascript" 和 "```" 两行。)
 ```javascript
 {
 	"name": "EmuTarkovWeaponsModified",
