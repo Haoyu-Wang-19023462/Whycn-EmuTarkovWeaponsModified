@@ -60,9 +60,10 @@ Please reverse the steps above.
 |5c1bc5af2e221602b412949b|foregrip_all_zenit_rk_2                      |-0 Ergonomics                                                                                                               |
 
 **Tests**
-0.12.7.8642 passed.
-Compatible with "Ereshkigal-AllExaminedItemsPlusNoItemsWeightPlusIncreasedAmmoStacksSize-1.0.0"
-Compatible with "Frumorn-AutoSaiga12-1.0.0"
+
+0.12.7.8642 passed.  
+Compatible with "Ereshkigal-AllExaminedItemsPlusNoItemsWeightPlusIncreasedAmmoStacksSize-1.0.0"  
+Compatible with "Frumorn-AutoSaiga12-1.0.0"  
 
 
 
@@ -139,6 +140,7 @@ Compatible with "Frumorn-AutoSaiga12-1.0.0"
 |5c1bc5af2e221602b412949b|foregrip_all_zenit_rk_2                      |RK-2垂直前握把           |-0人机功效                                                                                         |
 
 **测试**
-0.12.7.8642测试通过
-与Ereshkigal-AllExaminedItemsPlusNoItemsWeightPlusIncreasedAmmoStacksSize-1.0.0兼容
-与Frumorn-AutoSaiga12-1.0.0兼容
+
+0.12.7.8642测试通过  
+与Ereshkigal-AllExaminedItemsPlusNoItemsWeightPlusIncreasedAmmoStacksSize-1.0.0兼容  
+与Frumorn-AutoSaiga12-1.0.0兼容  
