@@ -65,7 +65,7 @@ Please reverse the steps above.
 Compatible with "Ereshkigal-AllExaminedItemsPlusNoItemsWeightPlusIncreasedAmmoStacksSize-1.0.0"  
 Compatible with "Frumorn-AutoSaiga12-1.0.0"  
 
-> Find Github Repository：https://github.com/Haoyu-Wang-19023462/Whycn-EmuTarkovWeaponsModified ，Update, download at [releases](https://github.com/Haoyu-Wang-19023462/Whycn-EmuTarkovWeaponsModified/releases), unzip the zip package into a folder with has the same name with the file.
+> Find Github Repository：https://github.com/Haoyu-Wang-19023462/Whycn-EmuTarkovWeaponsModified ，Update, download at [releases](https://github.com/Haoyu-Wang-19023462/Whycn-EmuTarkovWeaponsModified/releases).
 
 
 
@@ -147,4 +147,4 @@ Compatible with "Frumorn-AutoSaiga12-1.0.0"
 与Ereshkigal-AllExaminedItemsPlusNoItemsWeightPlusIncreasedAmmoStacksSize-1.0.0兼容  
 与Frumorn-AutoSaiga12-1.0.0兼容  
 
-> 项目地址：https://github.com/Haoyu-Wang-19023462/Whycn-EmuTarkovWeaponsModified ，项目更新、下载请在[releases](https://github.com/Haoyu-Wang-19023462/Whycn-EmuTarkovWeaponsModified/releases)中下载，将压缩包解压到与文件名相同的文件夹中。
+> 项目地址：https://github.com/Haoyu-Wang-19023462/Whycn-EmuTarkovWeaponsModified ，项目更新、下载请在[releases](https://github.com/Haoyu-Wang-19023462/Whycn-EmuTarkovWeaponsModified/releases)中下载。
