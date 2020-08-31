@@ -2,9 +2,9 @@
 
 #### Version 0.0.1
 
-The data was modified based on the official EmuTarkov 0.12.7.8642's database.
-This mod might conflict with other mods which change items and firearms!
-If it doesn't take any effect, please try to uninstall other mods or clear the cache.
+The data was modified based on the official EmuTarkov 0.12.7.8642's database.  
+This mod might conflict with other mods which change items and firearms!  
+If it doesn't take any effect, please try to uninstall other mods or clear the cache.  
 
 **Installation**
 
