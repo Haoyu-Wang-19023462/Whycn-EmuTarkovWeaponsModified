@@ -27,7 +27,7 @@ Please reverse the steps above.
 
 **Changes:**
 
-|Item ID                 |Name                                         |Changes                                                                                                                    |
+|Item ID                 |Name                                         |Changes                                                                                                                     |
 |------------------------|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 |5a17fb9dfcdbcbcae6687291|stock_aps_toz_apb_wire                       |-80% Recoil                                                                                                                 |
 |5a78948ec5856700177b1124|mount_870_xs_shot_rail_ghost_ring            |Can be adapted to "PP91 Rotor 43 RIS"                                                                                       |
@@ -64,6 +64,8 @@ Please reverse the steps above.
 0.12.7.8642 passed.  
 Compatible with "Ereshkigal-AllExaminedItemsPlusNoItemsWeightPlusIncreasedAmmoStacksSize-1.0.0"  
 Compatible with "Frumorn-AutoSaiga12-1.0.0"  
+
+> Find Github Repository：https://github.com/Haoyu-Wang-19023462/Whycn-EmuTarkovWeaponsModified ，Update, download at [releases](https://github.com/Haoyu-Wang-19023462/Whycn-EmuTarkovWeaponsModified/releases), unzip the zip package into a folder with has the same name with the file.
 
 
 
@@ -144,3 +146,5 @@ Compatible with "Frumorn-AutoSaiga12-1.0.0"
 0.12.7.8642测试通过  
 与Ereshkigal-AllExaminedItemsPlusNoItemsWeightPlusIncreasedAmmoStacksSize-1.0.0兼容  
 与Frumorn-AutoSaiga12-1.0.0兼容  
+
+> 项目地址：https://github.com/Haoyu-Wang-19023462/Whycn-EmuTarkovWeaponsModified ，项目更新、下载请在[releases](https://github.com/Haoyu-Wang-19023462/Whycn-EmuTarkovWeaponsModified/releases)中下载，将压缩包解压到与文件名相同的文件夹中。
