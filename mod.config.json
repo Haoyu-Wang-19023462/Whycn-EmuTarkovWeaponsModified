@@ -1,0 +1,40 @@
+{
+	"name": "EmuTarkovWeaponsModified",
+	"author": "Whycn",
+	"license": "GPL",
+	"version": "0.0.1",
+	"dependencies": {},
+	"db": {
+		"items": {
+			"5a17fb9dfcdbcbcae6687291": "db/items/5a17fb9dfcdbcbcae6687291.json",
+			"5a78948ec5856700177b1124": "db/items/5a78948ec5856700177b1124.json",
+			"5abccb7dd8ce87001773e277": "db/items/5abccb7dd8ce87001773e277.json",
+			"5649d9a14bdc2d79388b4580": "db/items/5649d9a14bdc2d79388b4580.json",
+			"5a7dbfc1159bd40016548fde": "db/items/5a7dbfc1159bd40016548fde.json",
+			"5d3eb59ea4b9361c284bb4b2": "db/items/5d3eb59ea4b9361c284bb4b2.json",
+			"5d67abc1a4b93614ec50137f": "db/items/5d67abc1a4b93614ec50137f.json",
+			"5a6b5ed88dc32e000c52ec86": "db/items/5a6b5ed88dc32e000c52ec86.json",
+			"5a7ad55551dfba0015068f42": "db/items/5a7ad55551dfba0015068f42.json",
+			"5a7ae0c351dfba0017554310": "db/items/5a7ae0c351dfba0017554310.json",
+			"5a7b4900e899ef197b331a2a": "db/items/5a7b4900e899ef197b331a2a.json",
+			"5a71e4f48dc32e001207fb26": "db/items/5a71e4f48dc32e001207fb26.json",
+			"5bfea6e90db834001b7347f3": "db/items/5bfea6e90db834001b7347f3.json",
+			"5cde7afdd7f00c000d36b89d": "db/items/5cde7afdd7f00c000d36b89d.json",
+			"5d25a6a48abbc306c62e6310": "db/items/5d25a6a48abbc306c62e6310.json",
+			"5bae13ded4351e44f824bf38": "db/items/5bae13ded4351e44f824bf38.json",
+			"5bbde41ed4351e003562b038": "db/items/5bbde41ed4351e003562b038.json",
+			"5bfd4cd60db834001c38f095": "db/items/5bfd4cd60db834001c38f095.json",
+			"5de8f237bbaf010b10528a70": "db/items/5de8f237bbaf010b10528a70.json",
+			"5e00903ae9dc277128008b87": "db/items/5e00903ae9dc277128008b87.json",
+			"5cc70093e4a949033c734312": "db/items/5cc70093e4a949033c734312.json",
+			"57ee59b42459771c7b045da5": "db/items/57ee59b42459771c7b045da5.json",
+			"57f4c844245977379d5c14d1": "db/items/57f4c844245977379d5c14d1.json",
+			"59984ab886f7743e98271174": "db/items/59984ab886f7743e98271174.json",
+			"5a27bad7c4a282000b15184b": "db/items/5a27bad7c4a282000b15184b.json",
+			"5df8ce05b11454561e39243b": "db/items/5df8ce05b11454561e39243b.json",
+			"5c471bfc2e221602b21d4e17": "db/items/5c471bfc2e221602b21d4e17.json",
+			"59e6687d86f77411d949b251": "db/items/59e6687d86f77411d949b251.json",
+			"5c1bc5af2e221602b412949b": "db/items/5c1bc5af2e221602b412949b.json"
+		}
+	}
+}
