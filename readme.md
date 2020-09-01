@@ -27,37 +27,37 @@ Please reverse the steps above.
 
 **Changes:**
 
-|Item ID                 |Name                                         |Changes                                                                                                                     |
-|------------------------|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-|5a17fb9dfcdbcbcae6687291|stock_aps_toz_apb_wire                       |-80% Recoil                                                                                                                 |
-|5a78948ec5856700177b1124|mount_870_xs_shot_rail_ghost_ring            |Can be adapted to "PP91 Rotor 43 RIS"                                                                                       |
-|5abccb7dd8ce87001773e277|weapon_toz_apb_9x18pm                        |Can be adapted to "PM/PPSH 84 Rounds", front sight can be adapted to "M870 Ghost Ring", Rear sight  can be adapted to "TT01"|
-|5649d9a14bdc2d79388b4580|sight_rear_ak_tactica_tula_tt01              |Can be adapted to "DLOC-IRD"                                                                                                |
-|5a7dbfc1159bd40016548fde|foregrip_all_hera_arms_cqr_grip              |Removed incompatibility restrictions                                                                                        |
-|5d3eb59ea4b9361c284bb4b2|barrel_57_fn_120mm_threaded_57x28            |Can be adapted to "P90 flash hider"                                                                                         |
-|5d67abc1a4b93614ec50137f|weapon_fn_five_seven_57x28_fde               |Can be adapted to "Glock 17 ZT Spartan+ Slide"                                                                              |
-|5a6b5ed88dc32e000c52ec86|barrel_glock_salient_arms_114mm_threaded_9x19|Can be adapted to "TACCOM MPX brake"                                                                                        |
-|5a7ad55551dfba0015068f42|mount_glock_aimtech_tiger_shark_glock        |Can be adapted to "DLOC-IRD"                                                                                                |
-|5a7ae0c351dfba0017554310|weapon_glock_glock_17_gen3_9x19              |Add fullauto 850 RPM mode, Can be adapted to "SR1MP 4 rails"                                                                |
-|5a7b4900e899ef197b331a2a|mount_glock_um_tactical_um3_sight_mount      |Can be adapted to "DLOC-IRD"                                                                                                |
-|5a71e4f48dc32e001207fb26|reciever_glock_zev_tech_spartan_rmr_cut_gen_3|Can be adapted to "DLOC-IRD"                                                                                                |
-|5bfea6e90db834001b7347f3|weapon_remington_model_700_762x51            |Can fire 2 kinds of 12.7x108mm bullets                                                                                      |
-|5cde7afdd7f00c000d36b89d|handguard_m700_abarms_mrs_mod_x_gen_3        |Can be adapted to "MPR45 backup rail                                                                                        |
-|5d25a6a48abbc306c62e6310|mag_m700_mdt_aics_762x51_12                  |Can be adapted to 2 kinds of 12.7x108mm bullets                                                                             |
-|5bae13ded4351e44f824bf38|mag_mosin_promag_opfor_mag_762x54_10         |Removed incompatibility restrictions                                                                                        |
-|5bbde41ed4351e003562b038|pistolgrip_mosin_tacfire_pgmn                |-50% Recoil，+50 Ergonomics                                                                                                 |
-|5bfd4cd60db834001c38f095|barrel...mosin_custom_threaded_sawn_off_220mm|Can be adapted to "Mosin Witt brake"                                                                                        |
-|5de8f237bbaf010b10528a70|muzzle_mp9_bt_supressor_mount_9x19           |Can be adapted to "TACCOM MPX brake"                                                                                        |
-|5e00903ae9dc277128008b87|weapon_bt_mp9_9x19                           |Can be adapted to "Glock SGMT 50 Rounds", "MPX ULSS Stock"                                                                  |
-|5cc70093e4a949033c734312|mag_p90_fn_p90_std_57x28_50                  |LoadUnloadModifier 0                                                                                                        |
-|57ee59b42459771c7b045da5|mount_pp-91_rotor_43_kedr_ris                |Can be adapted to "SR1MP 4 rails"                                                                                           |
-|57f4c844245977379d5c14d1|weapon_zmz_pp-9_9x18pmm                      |Can be adapted to "RK-3 pistol grip", "PM/PPSH 84 Rounds"                                                                   |
-|59984ab886f7743e98271174|weapon_izhmash_pp-19-01_9x19                 |Can be adapted to "Glock SGMT 50 rounds", "TACCOM MPX brake"                                                                |
-|5a27bad7c4a282000b15184b|mount_sr1mp_tochmash_std_4_rail              |Can be adapted to "RK-2 fore grip", "DLOC-IRD"                                                                              |
-|5df8ce05b11454561e39243b|weapon_kac_sr25_762x51                       |Add fullauto 700 RPM mode, Can be adapted to "M1A X-14 50 rounds", "SA58 X-FAL 50 rounds", "SA58 British 30 rounds"         |
-|5c471bfc2e221602b21d4e17|muzzle_svd_izhmash_svd_s_std_762x54          |Can be adapted to "Mosin TR+ Muzzle adapter", "Mpsin Witt brake"                                                            |
-|59e6687d86f77411d949b251|weapon_molot_akm_vpo_209_366_TKM             |Add fullauto 600 RPM mode, All values are reset according to 8.3% deterioration of the original AKMN value                  |
-|5c1bc5af2e221602b412949b|foregrip_all_zenit_rk_2                      |-0 Ergonomics                                                                                                               |
+|Item ID                 |Name                                         |Changes                                                                                                                                                                      |
+|------------------------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|5a17fb9dfcdbcbcae6687291|stock_aps_toz_apb_wire                       |-80% Recoil                                                                                                                                                                  |
+|5a78948ec5856700177b1124|mount_870_xs_shot_rail_ghost_ring            |Can be adapted to "PP91 Rotor 43 RIS"                                                                                                                                        |
+|5abccb7dd8ce87001773e277|weapon_toz_apb_9x18pm                        |Can be adapted to "PM/PPSH 84 Rounds", front sight can be adapted to "M870 Ghost Ring", Rear sight  can be adapted to "TT01"                                                 |
+|5649d9a14bdc2d79388b4580|sight_rear_ak_tactica_tula_tt01              |Can be adapted to "DLOC-IRD"                                                                                                                                                 |
+|5a7dbfc1159bd40016548fde|foregrip_all_hera_arms_cqr_grip              |Removed incompatibility restrictions                                                                                                                                         |
+|5d3eb59ea4b9361c284bb4b2|barrel_57_fn_120mm_threaded_57x28            |Can be adapted to "P90 flash hider"                                                                                                                                          |
+|5d67abc1a4b93614ec50137f|weapon_fn_five_seven_57x28_fde               |Can be adapted to "Glock 17 ZT Spartan+ Slide"                                                                                                                               |
+|5a6b5ed88dc32e000c52ec86|barrel_glock_salient_arms_114mm_threaded_9x19|Can be adapted to "TACCOM MPX brake"                                                                                                                                         |
+|5a7ad55551dfba0015068f42|mount_glock_aimtech_tiger_shark_glock        |Can be adapted to "DLOC-IRD"                                                                                                                                                 |
+|5a7ae0c351dfba0017554310|weapon_glock_glock_17_gen3_9x19              |Add fullauto 850 RPM mode, Can be adapted to "SR1MP 4 rails"                                                                                                                 |
+|5a7b4900e899ef197b331a2a|mount_glock_um_tactical_um3_sight_mount      |Can be adapted to "DLOC-IRD"                                                                                                                                                 |
+|5a71e4f48dc32e001207fb26|reciever_glock_zev_tech_spartan_rmr_cut_gen_3|Can be adapted to "DLOC-IRD"                                                                                                                                                 |
+|5bfea6e90db834001b7347f3|weapon_remington_model_700_762x51            |Can fire 2 kinds of 12.7x108mm bullets                                                                                                                                       |
+|5cde7afdd7f00c000d36b89d|handguard_m700_abarms_mrs_mod_x_gen_3        |Can be adapted to "MPR45 backup rail                                                                                                                                         |
+|5d25a6a48abbc306c62e6310|mag_m700_mdt_aics_762x51_12                  |Can be adapted to 2 kinds of 12.7x108mm bullets                                                                                                                              |
+|5bae13ded4351e44f824bf38|mag_mosin_promag_opfor_mag_762x54_10         |Removed incompatibility restrictions                                                                                                                                         |
+|5bbde41ed4351e003562b038|pistolgrip_mosin_tacfire_pgmn                |-50% Recoil，+50 Ergonomics                                                                                                                                                  |
+|5bfd4cd60db834001c38f095|barrel...mosin_custom_threaded_sawn_off_220mm|Can be adapted to "Mosin Witt brake"                                                                                                                                         |
+|5de8f237bbaf010b10528a70|muzzle_mp9_bt_supressor_mount_9x19           |Can be adapted to "TACCOM MPX brake"                                                                                                                                         |
+|5e00903ae9dc277128008b87|weapon_bt_mp9_9x19                           |Can be adapted to "Glock SGMT 50 Rounds", "MPX ULSS Stock"                                                                                                                   |
+|5cc70093e4a949033c734312|mag_p90_fn_p90_std_57x28_50                  |LoadUnloadModifier 0                                                                                                                                                         |
+|57ee59b42459771c7b045da5|mount_pp-91_rotor_43_kedr_ris                |Can be adapted to "SR1MP 4 rails"                                                                                                                                            |
+|57f4c844245977379d5c14d1|weapon_zmz_pp-9_9x18pmm                      |Can be adapted to "RK-3 pistol grip", "PM/PPSH 84 Rounds"                                                                                                                    |
+|59984ab886f7743e98271174|weapon_izhmash_pp-19-01_9x19                 |Can be adapted to "Glock SGMT 50 rounds", "TACCOM MPX brake"                                                                                                                 |
+|5a27bad7c4a282000b15184b|mount_sr1mp_tochmash_std_4_rail              |Can be adapted to "RK-2 fore grip", "DLOC-IRD"                                                                                                                               |
+|5df8ce05b11454561e39243b|weapon_kac_sr25_762x51                       |Add fullauto 700 RPM mode, Can be adapted to "M1A X-14 50 rounds", "SA58 X-FAL 50 rounds", "SA58 British 30 rounds"                                                          |
+|5c471bfc2e221602b21d4e17|muzzle_svd_izhmash_svd_s_std_762x54          |Can be adapted to "Mosin TR+ Muzzle adapter", "Mpsin Witt brake"                                                                                                             |
+|59e6687d86f77411d949b251|weapon_molot_akm_vpo_209_366_TKM             |Add fullauto 600 RPM mode, All values are reset according to 8.3% deterioration of the original AKMN value, Can be adapted to "TT AKM Adapter", "Lantac Drakon 7.62x39 brake"|
+|5c1bc5af2e221602b412949b|foregrip_all_zenit_rk_2                      |-0 Ergonomics                                                                                                                                                                |
 
 **Tests**
 
@@ -111,37 +111,37 @@ Compatible with "Frumorn-AutoSaiga12-1.0.0"
 
 **作出的更改如下：**
 
-|物品ID                  |物品名称字段                                 |物品                     |更改内容                                                                                           | 
-|------------------------|---------------------------------------------|-------------------------|---------------------------------------------------------------------------------------------------|
-|5a17fb9dfcdbcbcae6687291|stock_aps_toz_apb_wire                       |APB枪托                  |-80%后坐力                                                                                         |
-|5a78948ec5856700177b1124|mount_870_xs_shot_rail_ghost_ring            |M870鬼环导轨             |可安装PP91 Rotor 43 RIS导轨                                                                        |
-|5abccb7dd8ce87001773e277|weapon_toz_apb_9x18pm                        |APB消音自动手枪          |可安装PM/PPSH 84发弹鼓、准星可安装M870鬼环导轨、照门可安装TT01照门导轨                             |
-|5649d9a14bdc2d79388b4580|sight_rear_ak_tactica_tula_tt01              |TT01照门导轨             |可安装DLOC-IRD支架                                                                                 |
-|5a7dbfc1159bd40016548fde|foregrip_all_hera_arms_cqr_grip              |CQR握把                  |去除了原生不兼容限制                                                                               |
-|5d3eb59ea4b9361c284bb4b2|barrel_57_fn_120mm_threaded_57x28            |FN57螺纹枪管             |可安装P90闪光抑制器                                                                                |
-|5d67abc1a4b93614ec50137f|weapon_fn_five_seven_57x28_fde               |FN P90 FDE PDR           |可安装格洛克17 ZT Spartan+机匣                                                                     |
-|5a6b5ed88dc32e000c52ec86|barrel_glock_salient_arms_114mm_threaded_9x19|格洛克17 SAI+螺纹枪管    |可安装TACCOM MPX制退器                                                                             |
-|5a7ad55551dfba0015068f42|mount_glock_aimtech_tiger_shark_glock        |格洛克Tiger Shark导轨    |可安装DLOC-IRD支架                                                                                 |
-|5a7ae0c351dfba0017554310|weapon_glock_glock_17_gen3_9x19              |格洛克17手枪             |增加全自动850发每分模式、可安装SR1MP四轨                                                           |
-|5a7b4900e899ef197b331a2a|mount_glock_um_tactical_um3_sight_mount      |UM3导轨                  |可安装DLOC-IRD支架                                                                                 |
-|5a71e4f48dc32e001207fb26|reciever_glock_zev_tech_spartan_rmr_cut_gen_3|格洛克17 ZT Spartan+机匣 |可安装DLOC-IRD支架                                                                                 |
-|5bfea6e90db834001b7347f3|weapon_remington_model_700_762x51            |M700栓动式狙击枪         |可发射12.7x108mm两种弹药                                                                           |
-|5cde7afdd7f00c000d36b89d|handguard_m700_abarms_mrs_mod_x_gen_3        |M700 MOD X Gen.3护木     |可安装MPR45备用导轨                                                                                |
-|5d25a6a48abbc306c62e6310|mag_m700_mdt_aics_762x51_12                  |M700 MDT AICS 12发弹匣   |可安装12.7x108mm两种弹药                                                                           |
-|5bae13ded4351e44f824bf38|mag_mosin_promag_opfor_mag_762x54_10         |莫辛ProMag OPFOR 10发弹匣|去除不兼容限制                                                                                     |
-|5bbde41ed4351e003562b038|pistolgrip_mosin_tacfire_pgmn                |莫辛PGMN手枪式握把       |-50%后坐力，+50人机功效                                                                            |
-|5bfd4cd60db834001c38f095|barrel...mosin_custom_threaded_sawn_off_220mm|莫辛锯短式220mm枪管      |可安装莫辛Witt制退器                                                                               |
-|5de8f237bbaf010b10528a70|muzzle_mp9_bt_supressor_mount_9x19           |MP9消音器基座            |可安装TACCOM MPX制退器                                                                             |
-|5e00903ae9dc277128008b87|weapon_bt_mp9_9x19                           |MP9微型冲锋枪            |可安装格洛克SGMT 50发弹鼓、MPX ULSS枪托                                                            |
-|5cc70093e4a949033c734312|mag_p90_fn_p90_std_57x28_50                  |P90 50发弹匣             |装卸速度修正0                                                                                      |
-|57ee59b42459771c7b045da5|mount_pp-91_rotor_43_kedr_ris                |PP91 Rotor 43 RIS导轨    |可安装SR1MP四轨                                                                                    |
-|57f4c844245977379d5c14d1|weapon_zmz_pp-9_9x18pmm                      |PP-9 Klin微型冲锋枪      |可安装RK-3手枪式握把、可安装PM/PPSH 84发弹鼓                                                       |
-|59984ab886f7743e98271174|weapon_izhmash_pp-19-01_9x19                 |PP-19-01冲锋枪           |可安装格洛克SGMT 50发弹鼓、可安装TACCOM MPX制退器                                                  |
-|5a27bad7c4a282000b15184b|mount_sr1mp_tochmash_std_4_rail              |SR1MP四轨                |可安装RK-2前握把、可安装DLOC-IRD支架                                                               |
-|5df8ce05b11454561e39243b|weapon_kac_sr25_762x51                       |SR25 DMR                 |增加全自动700发每分模式、可安装M1A X-14 50发弹鼓、可安装SA58 X-FAL 50发弹鼓、可安装SA58英制30发弹匣|
-|5c471bfc2e221602b21d4e17|muzzle_svd_izhmash_svd_s_std_762x54          |SVDS 22寸枪管制退器      |可安装莫辛TR+枪口转接器、可安装莫辛Witt制退器                                                      |
-|59e6687d86f77411d949b251|weapon_molot_akm_vpo_209_366_TKM             |VPO-209 半自动霰弹枪     |增加全自动600发每分模式、全部数值按AKMN原厂数值劣化8.3%重新设定                                    |
-|5c1bc5af2e221602b412949b|foregrip_all_zenit_rk_2                      |RK-2垂直前握把           |-0人机功效                                                                                         |
+|物品ID                  |物品名称字段                                 |物品                     |更改内容                                                                                                                    | 
+|------------------------|---------------------------------------------|-------------------------|----------------------------------------------------------------------------------------------------------------------------|
+|5a17fb9dfcdbcbcae6687291|stock_aps_toz_apb_wire                       |APB枪托                  |-80%后坐力                                                                                                                  |
+|5a78948ec5856700177b1124|mount_870_xs_shot_rail_ghost_ring            |M870鬼环导轨             |可安装PP91 Rotor 43 RIS导轨                                                                                                 |
+|5abccb7dd8ce87001773e277|weapon_toz_apb_9x18pm                        |APB消音自动手枪          |可安装PM/PPSH 84发弹鼓、准星可安装M870鬼环导轨、照门可安装TT01照门导轨                                                      |
+|5649d9a14bdc2d79388b4580|sight_rear_ak_tactica_tula_tt01              |TT01照门导轨             |可安装DLOC-IRD支架                                                                                                          |
+|5a7dbfc1159bd40016548fde|foregrip_all_hera_arms_cqr_grip              |CQR握把                  |去除了原生不兼容限制                                                                                                        |
+|5d3eb59ea4b9361c284bb4b2|barrel_57_fn_120mm_threaded_57x28            |FN57螺纹枪管             |可安装P90闪光抑制器                                                                                                         |
+|5d67abc1a4b93614ec50137f|weapon_fn_five_seven_57x28_fde               |FN P90 FDE PDR           |可安装格洛克17 ZT Spartan+机匣                                                                                              |
+|5a6b5ed88dc32e000c52ec86|barrel_glock_salient_arms_114mm_threaded_9x19|格洛克17 SAI+螺纹枪管    |可安装TACCOM MPX制退器                                                                                                      |
+|5a7ad55551dfba0015068f42|mount_glock_aimtech_tiger_shark_glock        |格洛克Tiger Shark导轨    |可安装DLOC-IRD支架                                                                                                          |
+|5a7ae0c351dfba0017554310|weapon_glock_glock_17_gen3_9x19              |格洛克17手枪             |增加全自动850发每分模式、可安装SR1MP四轨                                                                                    |
+|5a7b4900e899ef197b331a2a|mount_glock_um_tactical_um3_sight_mount      |UM3导轨                  |可安装DLOC-IRD支架                                                                                                          |
+|5a71e4f48dc32e001207fb26|reciever_glock_zev_tech_spartan_rmr_cut_gen_3|格洛克17 ZT Spartan+机匣 |可安装DLOC-IRD支架                                                                                                          |
+|5bfea6e90db834001b7347f3|weapon_remington_model_700_762x51            |M700栓动式狙击枪         |可发射12.7x108mm两种弹药                                                                                                    |
+|5cde7afdd7f00c000d36b89d|handguard_m700_abarms_mrs_mod_x_gen_3        |M700 MOD X Gen.3护木     |可安装MPR45备用导轨                                                                                                         |
+|5d25a6a48abbc306c62e6310|mag_m700_mdt_aics_762x51_12                  |M700 MDT AICS 12发弹匣   |可安装12.7x108mm两种弹药                                                                                                    |
+|5bae13ded4351e44f824bf38|mag_mosin_promag_opfor_mag_762x54_10         |莫辛ProMag OPFOR 10发弹匣|去除不兼容限制                                                                                                              |
+|5bbde41ed4351e003562b038|pistolgrip_mosin_tacfire_pgmn                |莫辛PGMN手枪式握把       |-50%后坐力，+50人机功效                                                                                                     |
+|5bfd4cd60db834001c38f095|barrel...mosin_custom_threaded_sawn_off_220mm|莫辛锯短式220mm枪管      |可安装莫辛Witt制退器                                                                                                        |
+|5de8f237bbaf010b10528a70|muzzle_mp9_bt_supressor_mount_9x19           |MP9消音器基座            |可安装TACCOM MPX制退器                                                                                                      |
+|5e00903ae9dc277128008b87|weapon_bt_mp9_9x19                           |MP9微型冲锋枪            |可安装格洛克SGMT 50发弹鼓、MPX ULSS枪托                                                                                     |
+|5cc70093e4a949033c734312|mag_p90_fn_p90_std_57x28_50                  |P90 50发弹匣             |装卸速度修正0                                                                                                               |
+|57ee59b42459771c7b045da5|mount_pp-91_rotor_43_kedr_ris                |PP91 Rotor 43 RIS导轨    |可安装SR1MP四轨                                                                                                             |
+|57f4c844245977379d5c14d1|weapon_zmz_pp-9_9x18pmm                      |PP-9 Klin微型冲锋枪      |可安装RK-3手枪式握把、可安装PM/PPSH 84发弹鼓                                                                                |
+|59984ab886f7743e98271174|weapon_izhmash_pp-19-01_9x19                 |PP-19-01冲锋枪           |可安装格洛克SGMT 50发弹鼓、可安装TACCOM MPX制退器                                                                           |
+|5a27bad7c4a282000b15184b|mount_sr1mp_tochmash_std_4_rail              |SR1MP四轨                |可安装RK-2前握把、可安装DLOC-IRD支架                                                                                        |
+|5df8ce05b11454561e39243b|weapon_kac_sr25_762x51                       |SR25 DMR                 |增加全自动700发每分模式、可安装M1A X-14 50发弹鼓、可安装SA58 X-FAL 50发弹鼓、可安装SA58英制30发弹匣                         |
+|5c471bfc2e221602b21d4e17|muzzle_svd_izhmash_svd_s_std_762x54          |SVDS 22寸枪管 制退器     |可安装莫辛TR+枪口转接器、可安装莫辛Witt制退器                                                                               |
+|59e6687d86f77411d949b251|weapon_molot_akm_vpo_209_366_TKM             |VPO-209 半自动霰弹枪     |增加全自动600发每分模式、全部数值按AKMN原厂数值劣化8.3%重新设定、可安装TT AKM枪口转接器、可安装Lantac Drakon 7.62x39mm制退器|
+|5c1bc5af2e221602b412949b|foregrip_all_zenit_rk_2                      |RK-2垂直前握把           |-0人机功效                                                                                                                  |
 
 **测试**
 
