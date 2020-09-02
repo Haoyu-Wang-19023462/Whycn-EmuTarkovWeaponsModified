@@ -54,7 +54,7 @@ Please reverse the steps above.
 |57f4c844245977379d5c14d1|weapon_zmz_pp-9_9x18pmm                      |Can be adapted to "RK-3 pistol grip", "PM/PPSH 84 Rounds"                                                                                                                    |
 |59984ab886f7743e98271174|weapon_izhmash_pp-19-01_9x19                 |Can be adapted to "Glock SGMT 50 rounds", "TACCOM MPX brake"                                                                                                                 |
 |5a27bad7c4a282000b15184b|mount_sr1mp_tochmash_std_4_rail              |Can be adapted to "RK-2 fore grip", "DLOC-IRD"                                                                                                                               |
-|5df8ce05b11454561e39243b|weapon_kac_sr25_762x51                       |Add fullauto 700 RPM mode, Can be adapted to "M1A X-14 50 rounds", "SA58 X-FAL 50 rounds", "SA58 British 30 rounds"                                                          |
+|5df8ce05b11454561e39243b|weapon_kac_sr25_762x51                       |Add fullauto 700 RPM mode, Can be adapted to "M1A X-14 50 rounds", "SA58 X-FAL 50 rounds", "SA58 British 30 rounds", "Raptor charging handle"                                |
 |5c471bfc2e221602b21d4e17|muzzle_svd_izhmash_svd_s_std_762x54          |Can be adapted to "Mosin TR+ Muzzle adapter", "Mpsin Witt brake"                                                                                                             |
 |59e6687d86f77411d949b251|weapon_molot_akm_vpo_209_366_TKM             |Add fullauto 600 RPM mode, All values are reset according to 8.3% deterioration of the original AKMN value, Can be adapted to "TT AKM Adapter", "Lantac Drakon 7.62x39 brake"|
 |5c1bc5af2e221602b412949b|foregrip_all_zenit_rk_2                      |-0 Ergonomics                                                                                                                                                                |
@@ -138,9 +138,9 @@ Compatible with "Frumorn-AutoSaiga12-1.0.0"
 |57f4c844245977379d5c14d1|weapon_zmz_pp-9_9x18pmm                      |PP-9 Klin微型冲锋枪      |可安装RK-3手枪式握把、可安装PM/PPSH 84发弹鼓                                                                                |
 |59984ab886f7743e98271174|weapon_izhmash_pp-19-01_9x19                 |PP-19-01冲锋枪           |可安装格洛克SGMT 50发弹鼓、可安装TACCOM MPX制退器                                                                           |
 |5a27bad7c4a282000b15184b|mount_sr1mp_tochmash_std_4_rail              |SR1MP四轨                |可安装RK-2前握把、可安装DLOC-IRD支架                                                                                        |
-|5df8ce05b11454561e39243b|weapon_kac_sr25_762x51                       |SR25 DMR                 |增加全自动700发每分模式、可安装M1A X-14 50发弹鼓、可安装SA58 X-FAL 50发弹鼓、可安装SA58英制30发弹匣                         |
+|5df8ce05b11454561e39243b|weapon_kac_sr25_762x51                       |SR25 DMR                 |增加全自动700发每分模式、可安装M1A X-14 50发弹鼓、可安装SA58 X-FAL 50发弹鼓、可安装SA58英制30发弹匣、可安装Raptor 拉机柄    |
 |5c471bfc2e221602b21d4e17|muzzle_svd_izhmash_svd_s_std_762x54          |SVDS 22寸枪管 制退器     |可安装莫辛TR+枪口转接器、可安装莫辛Witt制退器                                                                               |
-|59e6687d86f77411d949b251|weapon_molot_akm_vpo_209_366_TKM             |VPO-209 半自动霰弹枪     |增加全自动600发每分模式、全部数值按AKMN原厂数值劣化8.3%重新设定、可安装TT AKM枪口转接器、可安装Lantac Drakon 7.62x39mm制退器|
+|59e6687d86f77411d949b251|weapon_molot_akm_vpo_209_366_TKM             |VPO-209 半自动霰弹枪     |增加全自动600发每分模式、全部数值按AKMN原厂数值劣化8.3%重新设定、可安装TT AKM枪口转接器、可安装Lantac Drakon 7.62x39 制退器 |
 |5c1bc5af2e221602b412949b|foregrip_all_zenit_rk_2                      |RK-2垂直前握把           |-0人机功效                                                                                                                  |
 
 **测试**
